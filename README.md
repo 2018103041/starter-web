@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 This is just an edit to compare
 
 ####Edit
+
+Copyright 67.90
